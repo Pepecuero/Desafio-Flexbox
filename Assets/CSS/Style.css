@@ -1,0 +1,147 @@
+.sidebar {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor-1 {
+    display: flex;
+    flex-direction: row;
+    width: 96,5%;
+    justify-content: space-evenly;
+    margin: 0%;
+    padding: 0%; 
+    border: solid 1px #e8ebe4;
+    padding-right: 3%;
+  }
+   
+  .Maria {
+    flex-direction: column;
+    width: 60%;
+    color: rgb(102, 101, 101);
+    display: flex;
+    align-items: flex-start;
+    padding-left: 10%;
+}
+
+  .contactos img, .contenedor-1 img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left:5%;
+        
+}
+
+.boton{ 
+    margin: 0%;
+    padding: 0%; 
+    border: solid 1px #e8ebe4;
+    height: 18vh;
+    
+}
+
+.button {
+    width: 180px;
+    height: 50px;
+    background-color: #a491d2;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    margin-left: 18%;
+    margin-top: 6%;
+    border: 0cm;
+    
+}
+
+.iconos {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chat {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    padding-right: 10%;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+
+
+.listado {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.contactos {
+    display: flex;
+    height: 9vh;
+    border: solid 1px #e8ebe4;
+   
+    
+}
+
+h2 {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+    color: #1b1f21;
+    font-size: medium;
+}
+
+p {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+    color: #1b1f21;
+    font-size: small;
+}
+
+.principal {
+    display: flex;
+    width: 100%;
+    background-color: #e8ebe4;
+    align-items: center;
+    justify-content: center;
+}
+
+.Dios {
+    display: flex;
+}
+
+.pantalla {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.pantalla p {
+    width: 400px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.pantalla h1 {
+    font-size: 3em;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+
